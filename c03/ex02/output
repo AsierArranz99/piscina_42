@@ -1,0 +1,2 @@
+Antes de concatenar: str1 = 'Hola ', str2 = 'mundo!'
+Después de concatenar: str1 = 'Hola mundo!', str2 = 'mundo!'
